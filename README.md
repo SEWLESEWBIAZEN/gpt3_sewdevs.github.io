@@ -2,4 +2,4 @@
 
 GPT-3 static website
 
-link to website https://gpt3_sewdevs.netlify.app
+link to website https://gpt-three-3.netlify.app
